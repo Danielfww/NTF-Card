@@ -1,0 +1,55 @@
+body {
+  height:750px;
+  background:hsl(217, 54%, 11%);
+}
+
+.main-card {
+  margin-top:150px;
+  height:600px;
+  width:350px;
+  margin-left:auto;
+  margin-right:auto;
+  border-radius:12px;
+  background-color:hsl(216, 50%, 16%);
+  
+}
+
+.ntf {
+  width:300px;
+  height:300px;
+  margin:25px;
+  border-radius:10px;
+}
+
+h2 {
+  color:hsl(0, 0%, 100%);
+  font-family:Outfit;
+  text-align:left;
+  margin-left:25px;
+}
+
+.text-p {
+  color:hsl(0, 0%, 100%);
+  font-family:Outfit;
+  text-align:left;
+  margin-left:25px;
+  font-size:18px;
+}
+
+hr {
+  height:1px;
+  background-color:hsl(215, 32%, 27%);
+  width:300px;
+  border:none;
+  
+}
+ 
+.symbol {
+  display:flex;
+  align-items:center;
+  margin-left:25px;
+  font-size:16px;
+  color:hsl(178, 100%, 50%);
+  font-family:Outfit;
+  
+}
