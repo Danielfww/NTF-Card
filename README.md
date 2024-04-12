@@ -1,4 +1,4 @@
-# NTF-Card
+# NFT-Card
 Frontend Mentor Card Project
 <br>
 
