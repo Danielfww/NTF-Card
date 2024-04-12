@@ -22,11 +22,11 @@ https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U
 <br>
 
 
-*Technologies I used in this project were:
+<b>Technologies</b>I used in this project were:
 
-Flexbox;
-Responsive Design;
-Grid;
+Flexbox,
+Responsive Design,
+Hovering.
 <br>
 *Challenges I faced:
 
